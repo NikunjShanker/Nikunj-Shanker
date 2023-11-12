@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Nikunj Shanker
-- 👀 I’m interested in coding and pixel art. That's why I love making games!
-- 🌱 I’m actively pursuing game development with Unity and coding in C# while completing my Computer Science degree at University of Toronto.
+- 🌱 I’m actively pursuing a career in game development while completing my Computer Science degree at University of Toronto.
 - 📫 How to reach me: nikunj.shanker@mail.utoronto.ca
