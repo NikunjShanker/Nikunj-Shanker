@@ -3,4 +3,4 @@
 - I am in my third year at the University of Toronto, working towards a Computer Science Bachelor's Degree.
 - This GitHub profile hosts all of my projects and games. Feel free to check out what I've done over the years!
 - Personal Email: nikunj.shanker@gmail.com
-- Personal Website: [https://itch.io/dashboard](https://nikllamadev.itch.io)
+- Personal Website: [My itch.io Page](https://nikllamadev.itch.io)
