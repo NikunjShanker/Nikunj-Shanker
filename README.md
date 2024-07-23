@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Nikunj Shanker
-- 🌱 I’m actively pursuing a career in game development while completing my Computer Science degree at University of Toronto.
-- 📫 How to reach me: nikunj.shanker@gmail.com
+- 👋 Hi, I’m Nikunj Shanker
+-
+- I’m actively pursuing careers in software development or game development while completing my Computer Science degree at University of Toronto.
+- This GitHub profile hosts all of my projects and games.
+- 
+- Contact Information: nikunj.shanker@gmail.com
