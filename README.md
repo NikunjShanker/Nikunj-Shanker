@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Nikunj Shanker
--
-- I’m actively pursuing careers in software development or game development while completing my Computer Science degree at University of Toronto.
-- This GitHub profile hosts all of my projects and games.
-- 
+- I’m actively pursuing careers in software development and game development.
+- I am in my third year at the University of Toronto, working towards a Computer Science Bachelor's Degree.
+- This GitHub profile hosts all of my projects and games. Feel free to check out what I've done over the years!
 - Contact Information: nikunj.shanker@gmail.com
